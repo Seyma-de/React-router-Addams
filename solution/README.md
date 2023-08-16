@@ -1,7 +1,7 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-006 : Sass Portfolio with React Router (RP-06)
+# Sass Portfolio with React Router
 
 ## Description
 
@@ -14,7 +14,7 @@ Project aims to create a Sass Portfolio with Router.
 ## Project Skeleton
 
 ```
-006 - Sass Portfolio with React Router (folder)
+009 - Sass Portfolio with React Router (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
@@ -91,15 +91,11 @@ Build a Sass Portfolio with using ReactJS, react-router and sass.
 
 - Step 1: Create React App using `npx create-react-app sass-portfolio-router`.
 
-- Step 2: Convert the provided [template](./template) into a React project.
+- Step 2: Build Sass Portfolio with using ReactJS, react-router and sass..
 
-- Step 3: Build Project with using ReactJS, react-router and sass.
+- Step 3: Push your application into your own public repo on Github.
 
-- Step 4: Push your application into your own public repo on Github.
-
-- Step 5: Add project gif to your project and README.md file.
-
-- Note: The solution codes will be shared.
+- Step 4: Add project gif to your project and README.md file.
 
 ## Notes
 
