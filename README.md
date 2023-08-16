@@ -1,4 +1,4 @@
-#Sass Portfolio with React Router (RP-06)
+#Sass Portfolio with React Router 
 
 ## Description
 
